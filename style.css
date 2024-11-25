@@ -1,6 +1,6 @@
 body {
-    background-color: #9db8fc;
-    color: #991ac7;
+    background-color: #ADD8E6; /* Azul claro */
+    color: purple; /* Roxo */
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
@@ -10,8 +10,8 @@ body {
 }
 
 button {
-    background-color: #9db8fc;
-    color: #991ac7;
+    background-color: yellow; /* Amarelo */
+    color: purple; /* Roxo */
     font-family: "Bai Jamjuree", sans-serif;
 }
 
@@ -20,7 +20,7 @@ button {
 }
 
 .passo.ativo {
-    display:block;
+    display: block;
 }
 
 main {
